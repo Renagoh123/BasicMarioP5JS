@@ -1,7 +1,5 @@
 # BasicMarioP5JS
-Introduction to Programming
 
-## Description
 In this basic Mario-like game, the character is hungry and wants to collect apples on the way home. The goal is to collect as many red apples as possible without falling into the canyon or collecting the poisonous purple apples. The score increases by 1 for each red apple collected. 
 
 ## How to Play
