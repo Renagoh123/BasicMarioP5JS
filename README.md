@@ -17,3 +17,6 @@ Collect the red apples to increase your score. Avoid the poisonous purple apples
 
 Enjoy the game and happy collecting!
 
+![Screenshot of the Mario Game](https://github.com/Renagoh123/BasicMarioP5JS/blob/876ef6c46bb370b384f279d3adc132c2046edc49/Screenshots/Screenshot%202024-07-27%20113124.png)
+![Screenshot of the Mario Game](https://github.com/Renagoh123/BasicMarioP5JS/blob/876ef6c46bb370b384f279d3adc132c2046edc49/Screenshots/Screenshot%202024-07-27%20113141.png)
+![Screenshot of the Mario Game](https://github.com/Renagoh123/BasicMarioP5JS/blob/876ef6c46bb370b384f279d3adc132c2046edc49/Screenshots/Screenshot%202024-07-27%20133739.png)
